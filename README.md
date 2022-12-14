@@ -10,7 +10,7 @@ Languages
 
 ### Tools
 
-![Postman](https://img.shields.io/badge/-Poatman-#2F4F4F?style=for-the-badge&logo=Postman&LogoColor=#FF8C00)
+![Flutter](https://img.shields.io/badge/-Flutter-#2F4F4F?style=for-the-badge&logo=Flutter&LogoColor=#FF8C00)
 
 My CV
 
