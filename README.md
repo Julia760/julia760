@@ -24,7 +24,7 @@
 
 ## My CV
 
-[link to my CV](https://docs.google.com/document/d/1jQjrQloFVAt2X_XoYOQVQSNV4bp63XMx/edit)
+[![Header](https://img.shields.io/badge/linkCV-4682B4?style=for-the-badge&logo=CV&logoColor=31a5db)](https://docs.google.com/document/d/1jQjrQloFVAt2X_XoYOQVQSNV4bp63XMx/edit)
 
 ### Follow me
 
