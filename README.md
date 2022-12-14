@@ -15,6 +15,7 @@ Languages
 ### Tools
 
 ![Postman](https://img.shields.io/badge/-Postman-4682B4?style=for-the-badge&logo=postman&logoColor=FF8C00)
+![Charles](https://img.shields.io/badge/-Charles-4682B4?style=for-the-badge&logo=charles&logoColor=FF8C00)
 
 My CV
 
