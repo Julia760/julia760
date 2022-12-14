@@ -2,12 +2,6 @@
 
 ## I am a Junior Software testing Engineer looking for new career opportunities in the testing industry. I have experience in mobile testing (Startups), and as part of the training courses I have experience in testing a web site. I am a person who does not stand still, always develops and quickly adapts to new conditions. I want to work in a friendly team that sees its goals and goes to it.
 
-Work experience
-
-Education
-
-Languages
-
 ### Bug Tracking Systems
 
 ![Jira](https://img.shields.io/badge/-Jira-4682B4?style=for-the-badge&logo=jira&logoColor=1E90FF)
@@ -30,4 +24,7 @@ Languages
 
 My CV
 
-Follow me
+### Follow me
+
+![Telegram](https://img.shields.io/badge/-Telegram-4682B4?style=for-the-badge&logo=Telegram&logoColor=1E90FF)
+![Linkedin](https://img.shields.io/badge/-Linkedin-4682B4?style=for-the-badge&logo=Linkedin&logoColor=1E90FF)
