@@ -8,7 +8,12 @@ Education
 
 Languages
 
-## Test Management Systems
+### Bug Tracking Systems
+
+![Jira](https://img.shields.io/badge/-Jira-4682B4?style=for-the-badge&logo=jira&logoColor=2E8B57)
+![Notion](https://img.shields.io/badge/-Notion-4682B4?style=for-the-badge&logo=notion&logoColor=2E8B57)
+
+### Test Management Systems
 
 ![TestRail](https://img.shields.io/badge/-TestRail-4682B4?style=for-the-badge&logo=testrail&logoColor=2E8B57)
 
@@ -18,6 +23,7 @@ Languages
 ![Charles](https://img.shields.io/badge/-Charles-4682B4?style=for-the-badge&logo=charles&logoColor=FF8C00)
 ![Devtools](https://img.shields.io/badge/-Devtools-4682B4?style=for-the-badge&logo=devtools&logoColor=FF8C00)
 ![Fiddler](https://img.shields.io/badge/-Fiddler-4682B4?style=for-the-badge&logo=fiddler&logoColor=FF8C00)
+
 My CV
 
 Follow me
