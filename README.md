@@ -10,7 +10,7 @@ Languages
 
 ## Test Management Systems
 
-![TestRail](https://img.shields.io/badge/-TestRail-4682B4?style=for-the-badge&logo=testRail&logoColor=Color)
+![TestRail](https://img.shields.io/badge/-TestRail-4682B4?style=for-the-badge&logo=testRail&logoColor=2E8B57)
 
 ### Tools
 
