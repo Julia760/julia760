@@ -8,6 +8,10 @@ Education
 
 Languages
 
+## Test Management Systems
+
+![TestRail](https://img.shields.io/badge/-TestRail-4682B4?style=for-the-badge&logo=testRail&logoColor=Color)
+
 ### Tools
 
 ![Postman](https://img.shields.io/badge/-Postman-4682B4?style=for-the-badge&logo=postman&logoColor=FF8C00)
