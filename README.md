@@ -10,8 +10,8 @@ Languages
 
 ### Bug Tracking Systems
 
-![Jira](https://img.shields.io/badge/-Jira-4682B4?style=for-the-badge&logo=jira&logoColor=2E8B57)
-![Notion](https://img.shields.io/badge/-Notion-4682B4?style=for-the-badge&logo=notion&logoColor=2E8B57)
+![Jira](https://img.shields.io/badge/-Jira-4682B4?style=for-the-badge&logo=jira&logoColor=1E90FF)
+![Notion](https://img.shields.io/badge/-Notion-4682B4?style=for-the-badge&logo=notion&logoColor=000000)
 
 ### Test Management Systems
 
