@@ -28,5 +28,5 @@
 
 ### Follow me
 
-![Telegram](https://img.shields.io/badge/-Telegram-4682B4?style=for-the-badge&logo=Telegram&logoColor=1E90FF)
+![Telegram](https://img.shields.io/badge/-Telegram-4682B4?style=for-the-badge&logo=Telegram&logoColor=1E90FF,https://t.me/Julia01392)
 ![Linkedin](https://img.shields.io/badge/-Linkedin-4682B4?style=for-the-badge&logo=Linkedin&logoColor=1E90FF)
