@@ -13,6 +13,10 @@ Languages
 ![Jira](https://img.shields.io/badge/-Jira-4682B4?style=for-the-badge&logo=jira&logoColor=1E90FF)
 ![Notion](https://img.shields.io/badge/-Notion-4682B4?style=for-the-badge&logo=notion&logoColor=000000)
 
+### Database Management
+
+![MySQL](https://img.shields.io/badge/-MySQL-4682B4?style=for-the-badge&logo=MySQL&logoColor=000000)
+
 ### Test Management Systems
 
 ![TestRail](https://img.shields.io/badge/-TestRail-4682B4?style=for-the-badge&logo=testrail&logoColor=2E8B57)
