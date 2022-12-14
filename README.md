@@ -10,7 +10,7 @@ Languages
 
 ### Tools
 
-![Postman](https://img.shields.io/badge/-Postman-2F4F4F?style=for-the-badge&logo=postman&logoColor=FF8C00)
+![Postman](https://img.shields.io/badge/-Postman-4682B4?style=for-the-badge&logo=postman&logoColor=FF8C00)
 
 My CV
 
