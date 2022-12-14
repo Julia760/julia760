@@ -28,5 +28,5 @@
 
 ### Follow me
 
-![Telegram](https://img.shields.io/badge/-Telegram-4682B4?style=for-the-badge&logo=Telegram&logoColor=1E90FF)
-![Linkedin](https://img.shields.io/badge/-Linkedin-4682B4?style=for-the-badge&logo=Linkedin&logoColor=1E90FF)
+[![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/Julia01392)
+[![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/julia-serko/)
