@@ -2,21 +2,12 @@
 
 ### I am a Junior Software testing Engineer looking for new career opportunities in the testing industry. I have experience in mobile testing (Startups), and as part of the training courses I have experience in testing a web site. I am a person who does not stand still, always develops and quickly adapts to new conditions. I want to work in a friendly team that sees its goals and goes to it.
 
-### Bug Tracking Systems
+### Language and Tools
 
 ![Jira](https://img.shields.io/badge/-Jira-4682B4?style=for-the-badge&logo=jira&logoColor=1E90FF)
 ![Notion](https://img.shields.io/badge/-Notion-4682B4?style=for-the-badge&logo=notion&logoColor=000000)
-
-### Database Management
-
 ![MySQL](https://img.shields.io/badge/-MySQL-4682B4?style=for-the-badge&logo=MySQL&logoColor=000000)
-
-### Test Management Systems
-
 ![TestRail](https://img.shields.io/badge/-TestRail-4682B4?style=for-the-badge&logo=testrail&logoColor=2E8B57)
-
-### Tools
-
 ![Postman](https://img.shields.io/badge/-Postman-4682B4?style=for-the-badge&logo=postman&logoColor=FF8C00)
 ![Charles](https://img.shields.io/badge/-Charles-4682B4?style=for-the-badge&logo=charles&logoColor=FF8C00)
 ![Devtools](https://img.shields.io/badge/-Devtools-4682B4?style=for-the-badge&logo=devtools&logoColor=FF8C00)
