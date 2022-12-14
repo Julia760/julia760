@@ -22,7 +22,9 @@
 ![Devtools](https://img.shields.io/badge/-Devtools-4682B4?style=for-the-badge&logo=devtools&logoColor=FF8C00)
 ![Fiddler](https://img.shields.io/badge/-Fiddler-4682B4?style=for-the-badge&logo=fiddler&logoColor=FF8C00)
 
-My CV
+## My CV
+
+[link to my CV](https://docs.google.com/document/d/1jQjrQloFVAt2X_XoYOQVQSNV4bp63XMx/edit)
 
 ### Follow me
 
